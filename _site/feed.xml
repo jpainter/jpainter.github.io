@@ -6,9 +6,28 @@
 </description>
     <link>http://yourdomain.com/knitr-jekyll/</link>
     <atom:link href="http://yourdomain.com/knitr-jekyll/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Nov 2015 06:37:30 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2015 06:37:30 -0500</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2015 06:57:05 -0500</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2015 06:57:05 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>blogging to github not going so well</title>
+        <description>&lt;p&gt;Your markdown here!&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;n&quot;&gt;plot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/knitr-jekyllfigure/source/blogging-to-github-not-going-so-well/2015-11-23-blogging-to-github-not-going-so-well/unnamed-chunk-1-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-1&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2015 01:57:05 -0500</pubDate>
+        <link>http://yourdomain.com/knitr-jekyll/2015/11/blogging-to-github-not-going-so-well.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/knitr-jekyll/2015/11/blogging-to-github-not-going-so-well.html</guid>
+        
+        <category>example1</category>
+        
+        <category>example2</category>
+        
+        
+      </item>
     
       <item>
         <title>My first Yihui based blog!</title>
