@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My first Yihui based blog!
-date: `r Sys.time()`
+date: 2015-12-10 16:26:18
 published: true
 tags: [example1, example2]
 ---
